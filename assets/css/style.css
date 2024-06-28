@@ -1,0 +1,64 @@
+.font-1 {
+    font-weight: normal;
+    font-size: 2.5vw;
+}
+
+.font-2 {
+    font-size: 1.5vw !important;
+}
+
+.font-special {
+    font-weight: 400;
+    font-size: 1.5vw;
+}
+
+.section {
+    height: 100vh;
+    padding: auto;
+}
+
+.section-box {
+    margin: auto;
+    width: 50% !important;
+}
+
+
+.profile-btn {
+    width: 50%;
+}
+
+.icons {
+    border: 2px solid #000;
+    border-radius: 50%;
+    width: 40%;
+}
+
+@media screen and (max-width:800px) {
+
+    .font-1 {
+        font-size: 5.5vw;
+    }
+
+    .font-2 {
+        font-size: 3.5vw !important;
+    }
+
+    .font-special {
+        font-size: 3.5vw;
+    }
+
+    .section {
+        height: unset;
+        flex-direction: column;
+    }
+
+    .section-box {
+        margin: 10% auto;
+        width: 100% !important;
+    }
+
+    .profile-btn {
+        width: 80% !important;
+    }
+
+}
