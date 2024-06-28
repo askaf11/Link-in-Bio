@@ -1,6 +1,8 @@
 <h1>Link in Bio Project</h1>
 <p>Welcome to the <b>Link in Bio Project!</b> This project is inspired by Linktree, aiming to create a simple, customizable, and efficient way for users to share multiple links from a single URL in their social media bios.</p>
-![Link in Bio Template](assets/img/preview.jpg)
+
+![Link in Bio Template Preview](assets/img/preview.jpg)
+
 <h2>Introduction</h2>
 <p>The <b>Link in Bio Project</b> allows you to create a landing page that contains multiple links. This is particularly useful for social media profiles where you are limited to a single URL in your bio. With this project, you can link to all your important content from one place.</p>
 
