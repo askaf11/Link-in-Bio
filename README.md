@@ -1,5 +1,5 @@
 <h1>Link in Bio Project</h1>
-<p align="justify">Welcome to the <b><a href="https://askaf11.github.io/Link-in-Bio/" target="_blank">Link in Bio Project!</a></b> This project is inspired by Linktree, aiming to create a simple, customizable, and efficient way for users to share multiple links from a single URL in their social media bios.</p>
+<p align="justify">Welcome to the <b><a href="https://askaf11.github.io/Link-in-Bio/" target="_blank">Link in Bio Project</a>!</b> This project is inspired by Linktree, aiming to create a simple, customizable, and efficient way for users to share multiple links from a single URL in their social media bios.</p>
 
 <a href="https://askaf11.github.io/Link-in-Bio/">![Link in Bio Template Preview](assets/img/preview.jpg)</a>
 
